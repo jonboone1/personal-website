@@ -1,0 +1,203 @@
+[
+    {
+        "about" : [
+            {
+            "imgSrc" : "./assets/img/python_logo.png" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/R_logo.png" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/adobe_analytics_logo.png" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/hadoop_logo.png" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/teradata_logo2.png" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/tableau_logo.svg" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/google_analytics_logo.svg" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/big_query_logo.png" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/node_js_logo.png" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/ubuntu_logo.png" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/shiny_logo.jpg" ,
+            "title" : "",
+            "content" : ""
+            },
+            {
+            "imgSrc" : "./assets/img/google_lighthouse_logo.png" ,
+            "title" : "",
+            "content" : ""
+            }
+        ],
+        "service" : [
+            {
+                "imgSrc" : "./assets/img/service1.jpg" ,
+                "title" : "UI/UX Solution",
+                "content" : "Nemo enim ipsam voluptatem quia voluptas aspernatur blandit tempus porttitor maxime"
+            },
+            {
+                "imgSrc" : "./assets/img/service2.jpg" ,
+                "title" : "Branding Solution",
+                "content" : "Nemo enim ipsam voluptatem quia voluptas aspernatur blandit tempus porttitor maxime"
+            },
+            {
+                "imgSrc" : "./assets/img/service3.jpg" ,
+                "title" : "Illustration Solution",
+                "content" : "Nemo enim ipsam voluptatem quia voluptas aspernatur blandit tempus porttitor maxime"
+            }
+        ],
+        "team" : [
+            {
+                "imgSrc" : "./assets/img/cognetik.png" ,
+                "name" : "Digital Analyst",
+                "designation" : "2016-2017"
+            },
+            {
+                "imgSrc" : "./assets/img/cognetik.png" ,
+                "name" : "Sr. Digital Analyst",
+                "designation" : "2017-2018"
+            },
+            {
+                "imgSrc" : "./assets/img/cognetik.png" ,
+                "name" : "Analytics Manager",
+                "designation" : "2018-2019"
+            }
+        ],
+        "testimonial" : [
+            {
+                "imgSrc" : "./assets/img/t_logo.png" ,
+                "name" : "Adolfo Todd",
+                "designation" : "React Specialist",
+                "comment" : "Nemo enim ipsam voluptatem quia voluptas aspernatur blandit tempus porttitor maxime kenim ipsam voluptatem quia voluptas aspernatur blandit tempus porttitor maxime eiusmod tempor incididunt labore dolore magna minim veniam nostrud"
+            },
+            {
+                "imgSrc" : "./assets/img/t_logo.png" ,
+                "name" : "Adolfo Todd",
+                "designation" : "React Specialist",
+                "comment" : "Nemo enim ipsam voluptatem quia voluptas aspernatur blandit tempus porttitor maxime kenim ipsam voluptatem quia voluptas aspernatur blandit tempus porttitor maxime eiusmod tempor incididunt labore dolore magna minim veniam nostrud"
+            },
+            {
+                "imgSrc" : "./assets/img/t_logo.png" ,
+                "name" : "Adolfo Todd",
+                "designation" : "React Specialist",
+                "comment" : "Nemo enim ipsam voluptatem quia voluptas aspernatur blandit tempus porttitor maxime kenim ipsam voluptatem quia voluptas aspernatur blandit tempus porttitor maxime eiusmod tempor incididunt labore dolore magna minim veniam nostrud"
+            }
+        ],
+        "portfolio" : [
+            {
+                "imgSrc" : "./assets/img/mcdonalds_logo.svg" ,
+                "title" : "Adolfo Todd"
+            },
+            {
+                "imgSrc" : "./assets/img/portfolio3.jpg" ,
+                "title" : "Adolfo Todd"
+            },
+            {
+                "imgSrc" : "./assets/img/portfolio4.jpg" ,
+                "title" : "Adolfo Todd"
+            },
+            {
+                "imgSrc" : "./assets/img/portfolio5.jpg" ,
+                "title" : "Adolfo Todd"
+            }
+        ],
+        "blog" : [
+            {
+                "imgSrc" : "./assets/img/blog1.jpg" ,
+                "title" : "Understanding the core UI/UX Rules" ,
+                "date" : "May 15, 2018",
+                "category" : "UI/UX Design",
+                "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+            },
+            {
+                "imgSrc" : "./assets/img/blog2.jpg" ,
+                "title" : "Commercial work Design Solution for Everybody" ,
+                "date" : "December 7, 2018",
+                "category" : "Creative",
+                "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+            },
+            {
+                "imgSrc" : "./assets/img/blog3.jpg" ,
+                "title" : "Announcing a Free Plan for Small Teams" ,
+                "date" : "April 20, 2018",
+                "category" : "Entrepreneurs",
+                "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+            },
+            {
+                "imgSrc" : "./assets/img/blog1.jpg" ,
+                "title" : "Understanding the core UI/UX Rules" ,
+                "date" : "May 15, 2018",
+                "category" : "UI/UX Design",
+                "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+            },
+            {
+                "imgSrc" : "./assets/img/blog2.jpg" ,
+                "title" : "Commercial work Design Solution for Everybody" ,
+                "date" : "December 7, 2018",
+                "category" : "Creative",
+                "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+            },
+            {
+                "imgSrc" : "./assets/img/blog3.jpg" ,
+                "title" : "Announcing a Free Plan for Small Teams" ,
+                "date" : "April 20, 2018",
+                "category" : "Entrepreneurs",
+                "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+            },
+            {
+                "imgSrc" : "./assets/img/blog1.jpg" ,
+                "title" : "Understanding the core UI/UX Rules" ,
+                "date" : "May 15, 2018",
+                "category" : "UI/UX Design",
+                "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+            },
+            {
+                "imgSrc" : "./assets/img/blog2.jpg" ,
+                "title" : "Commercial work Design Solution for Everybody" ,
+                "date" : "December 7, 2018",
+                "category" : "Creative",
+                "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+            },
+            {
+                "imgSrc" : "./assets/img/blog3.jpg" ,
+                "title" : "Announcing a Free Plan for Small Teams" ,
+                "date" : "April 20, 2018",
+                "category" : "Entrepreneurs",
+                "content" : "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Blanditiis debitis."
+            }
+        ]
+    }
+]
