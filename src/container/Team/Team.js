@@ -37,10 +37,10 @@ class Team extends Component {
                           <a target="_blank" href="https://www.linkedin.com/in/jonboone/">I&#39;m On LinkedIn</a>
                           </button>
                         </div>{/*<!-- End: container -->*/}
-                        <h2 className="card-title text-center p-top-100 p-bottom-60 mb-0 head-subline">Companies Ive Worked With</h2>
+                        <h2 className="card-title text-center p-top-100 p-bottom-60 mb-0 head-subline">Companies I&#39;ve Worked With</h2>
                         <div className="row d-flex justify-content-center card-row2 big-logo-box">
                           <div className="col-lg-4 col-md-4 col-sm-6 logo-box">
-                            <img src="./assets/img/mcdonalds_logo.svg" className ="mcdonalds"/>
+                            <img src="./assets/img/mcdonalds_logo.svg" className ="mcdonalds"/>                          
                           </div>
                           <div className="col-lg-4 col-md-4 col-sm-6 logo-box">
                             <img src="./assets/img/ebay_logo.svg" className ="ebay"/>

@@ -2815,12 +2815,12 @@ p {
 }
 
 ::-webkit-scrollbar {
-  width: 5px;
+  width: 7px;
   height: 5px;
 }
 
 ::-webkit-scrollbar-thumb {
-  background: #ff458a;
+  background: #005714;
 }
 
 ::-webkit-scrollbar-track {
@@ -2828,7 +2828,7 @@ p {
 }
 
 body {
-  scrollbar-face-color: #ff458a;
+  scrollbar-face-color: #005714;
   scrollbar-track-color: #fff;
 }
 
@@ -3244,4 +3244,12 @@ body {
   .mobile-button {
     display: none;
   }
+}
+
+.linkedin-button {
+  margin-left: 40%;
+}
+
+.linkedin-button a {
+  color: white;
 }
