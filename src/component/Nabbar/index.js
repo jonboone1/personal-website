@@ -65,7 +65,7 @@ class Nabbar extends Component {
                     <div className="header-overlay">
                         <div className="container">
                             <div className="row">
-                                <div className="col-md-12">
+                                <div className="header-col col-md-12">
                                     <nav className="mmn navbar navbar-expand-md navbar-dark sticky-top">
                                         <div className="logo">
                                             <Link to='/'>  <h1 alt="logo" id="logo-text">JB</h1>  </Link>
@@ -79,7 +79,7 @@ class Nabbar extends Component {
                                                 <li><a onClick={this.setRedirect} href="#banner-area" className="nav-link">home</a></li>
                                                 <li><a onClick={this.setRedirect} href="#brand" className="nav-link">about me</a></li>
                                                 <li><a onClick={this.setRedirect} href="#about" className="nav-link">my skills</a></li>
-                                                <li><a onClick={this.setRedirect} href="#team" className="nav-link">work history</a></li>                                                
+                                                <li><a onClick={this.setRedirect} href="#team" className="nav-link">work history</a></li>
                                                 <li><a onClick={this.setRedirect} href="#contact" className="nav-link">contact</a></li>
                                             </ul>
                                         </div>

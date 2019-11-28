@@ -30,9 +30,9 @@ class Contact extends Component {
                             <img src="./assets/img/heade-bottom-shape.png" alt="img" className="img-fluid" />
                         </div> {/*<!-- End: contact_overlay -->*/}
                         <div className="row d-flex justify-content-center">
-                            <div className="col-md-10">
-                                <button className="btn-success btn-lg wow zoomIn rounded-sm slow mt-5 border-0 linkedin-button" type="submit">
-                                  <a target="_blank" href="https://www.linkedin.com/in/jonboone/">Connect On LinkedIn</a>                                
+                            <div className="col-md-10 linkedin-button">
+                                <button className="btn-success btn-lg wow zoomIn rounded-sm slow mt-5 border-0" type="submit">
+                                  <a target="_blank" href="https://www.linkedin.com/in/jonboone/">Connect On LinkedIn</a>
                                 </button>
                             </div> {/*<!-- end: col+ -->*/}
                         </div> {/*<!-- End: row -->*/}
