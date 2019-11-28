@@ -34,13 +34,13 @@ class Team extends Component {
                               </div>
                             </div>
                           <button className="btn-success btn-lg wow zoomIn rounded-sm slow mt-5 border-0 mobile-button" type="submit">
-                          <a target="_blank" href="https://www.linkedin.com/in/jonboone/">I&#39;m On LinkedIn</a>
+                          <a target="_blank" href="https://www.linkedin.com/in/jonboone/">See More on LinkedIn</a>
                           </button>
                         </div>{/*<!-- End: container -->*/}
                         <h2 className="card-title text-center p-top-100 p-bottom-60 mb-0 head-subline">Companies I&#39;ve Worked With</h2>
                         <div className="row d-flex justify-content-center card-row2 big-logo-box">
                           <div className="col-lg-4 col-md-4 col-sm-6 logo-box">
-                            <img src="./assets/img/mcdonalds_logo.svg" className ="mcdonalds"/>                          
+                            <img src="./assets/img/mcdonalds_logo.svg" className ="mcdonalds"/>
                           </div>
                           <div className="col-lg-4 col-md-4 col-sm-6 logo-box">
                             <img src="./assets/img/ebay_logo.svg" className ="ebay"/>
