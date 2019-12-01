@@ -16,7 +16,7 @@ class About extends Component {
 
                     <div className="row align-items-center">
                         <div className="col-lg-6 col-sm-12 animated tada" id="jon_character">
-                            <img src="./assets/img/jon_character2.svg" alt="img" className="jon_character img-fluid wow fadeInUp" />
+                            <img src="./assets/img/IMG_2829.jpg" alt="img" className="jon_character img-fluid wow fadeInUp" />
                         </div>
                         {/* <!-- End: col+ --> */}
 
