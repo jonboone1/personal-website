@@ -2,12 +2,12 @@
     {
         "about" : [
             {
-            "imgSrc" : "./assets/img/python_logo.png" ,
+            "imgSrc" : "./assets/img/python_logo.jpg" ,
             "title" : "",
             "content" : ""
             },
             {
-            "imgSrc" : "./assets/img/R_logo.png" ,
+            "imgSrc" : "./assets/img/R_logo.jpg" ,
             "title" : "",
             "content" : ""
             },
@@ -17,12 +17,12 @@
             "content" : ""
             },
             {
-            "imgSrc" : "./assets/img/hadoop_logo.png" ,
+            "imgSrc" : "./assets/img/hadoop_logo.jpg" ,
             "title" : "",
             "content" : ""
             },
             {
-            "imgSrc" : "./assets/img/teradata_logo2.png" ,
+            "imgSrc" : "./assets/img/teradata_logo2.jpg" ,
             "title" : "",
             "content" : ""
             },
@@ -37,7 +37,7 @@
             "content" : ""
             },
             {
-            "imgSrc" : "./assets/img/big_query_logo.png" ,
+            "imgSrc" : "./assets/img/big_query_logo.jpg" ,
             "title" : "",
             "content" : ""
             },
@@ -47,7 +47,7 @@
             "content" : ""
             },
             {
-            "imgSrc" : "./assets/img/ubuntu_logo.png" ,
+            "imgSrc" : "./assets/img/ubuntu_logo.jpg" ,
             "title" : "",
             "content" : ""
             },
