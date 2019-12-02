@@ -64,7 +64,7 @@
     "webpack-manifest-plugin": "2.0.4",
     "workbox-webpack-plugin": "4.2.0"
   },
-  "homepage": "http://aazztech.com/demos/themes/html/glitz",
+  "homepage": "https://jonboone.xyz",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
@@ -157,6 +157,7 @@
     "hover.css": "^2.3.2",
     "merge-stream": "^2.0.0",
     "scrollreveal": "^4.0.5",
+    "serve": "^11.2.0",
     "stream-series": "^0.1.1"
   }
 }
