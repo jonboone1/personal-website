@@ -2847,7 +2847,7 @@ body {
     font-size: 19px;
   }
   a {
-    font-size: 0.8rem;
+    font-size: 1.1rem;
   }
   h2 {
     line-height: 2rem;
@@ -3229,6 +3229,7 @@ body {
     display: block;
     width: 50%;
     margin-left: 25%;
+    height: auto;
   }
 
   .mobile-button a {
@@ -3257,7 +3258,7 @@ body {
 @media (max-width: 1024px) {
   .linkedin-button {
     width: 100% !important;
-    margin-left: 20%;
+    margin-left: 15%;
   }
 }
 
