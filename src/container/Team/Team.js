@@ -1,5 +1,6 @@
 import React, { Component, Fragment } from 'react';
 import TeamComponent from '../../component/Team/Team';
+import SkillsComponent from '../../component/About/Index';
 import Data from '../../data.json';
 class Team extends Component {
     render() {
@@ -36,21 +37,32 @@ class Team extends Component {
                           <button className="btn-success btn-lg wow zoomIn rounded-sm slow mt-5 border-0 mobile-button" type="submit">
                           <a target="_blank" href="https://www.linkedin.com/in/jonboone/">See More on LinkedIn</a>
                           </button>
-                        </div>{/*<!-- End: container -->*/}
-                        <h2 className="card-title text-center p-top-100 p-bottom-60 mb-0 head-subline">Companies I&#39;ve Worked With</h2>
-                        <div className="row d-flex justify-content-center card-row2 big-logo-box">
-                          <div className="col-lg-4 col-md-4 col-sm-6 logo-box">
-                            <img src="./assets/img/mcdonalds_logo.svg" className ="mcdonalds"/>
-                          </div>
-                          <div className="col-lg-4 col-md-4 col-sm-6 logo-box">
-                            <img src="./assets/img/ebay_logo.svg" className ="ebay"/>
-                          </div>
-                          <div className="col-lg-4 col-md-4 col-sm-6 logo-box">
-                            <img src="./assets/img/aaa_logo.svg" className ="aaa"/>
-                          </div>
-                        </div>
+                        </div>{/*<!-- End: container -->*/}                        
                     </section>
                     {/* <!-- End: section --> */}
+
+
+                     {/* <!-- ===== Icon__box ===== -->                                             */}
+                <section id="about" className="about-area p-bottom-120">
+                    <div className="container">
+                    <h2 className="card-title text-center p-bottom-50 mb-0 section-title2">Technologies I know and Love</h2>
+                        <div className="row">
+                        {
+                            Data[0].about.map((item, key) => {
+                                return <SkillsComponent key={key} img={item.imgSrc} title={item.title} content={item.content} />
+                            })
+                        }
+
+                        </div>{/*<!-- End: row -->*/}
+                    </div>{/*<!-- End: container -->*/}
+                </section>
+                {/* <!-- End: section --> */}
+
+
+
+                {/*<!-- end: div -->*/}
+                {/*<!-- ===== Card__two ===== --></div>*/}
+
             </Fragment>
         )
     }

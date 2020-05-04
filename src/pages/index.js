@@ -18,13 +18,9 @@ class Home extends Component {
             <Fragment>
                 <Layout>
                     <Nabbar />
-                    <MainBanner />
-                    <About />
-
-                    <Team />
-                    
-
-
+                    <MainBanner />                    
+                    <About />    
+                    <Team />                                    
                     <Contact />
                 </Layout>
             </Fragment>
